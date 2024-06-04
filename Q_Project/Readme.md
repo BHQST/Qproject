@@ -1,2 +1,7 @@
 will be adding as time goes on. 
-the Q sig section is wrong, will fix when time is available. 
+the core of the spreadsheet is done. 
+
+more tools to come.
+
+if there's any errors please report asap so we can correct  
+
