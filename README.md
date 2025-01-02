@@ -1,18 +1,18 @@
 # $${\color{red}Q \space \color{red}Project}$$
 
-## Table Of Contents
+### Table Of Contents
 - will add as i clean up
 
-## Description 
+### Description 
 All things Q
 
-## To Do
+### To Do
 - [ ] Clean up repo and seperate cicada stuff
 - [ ] Seperate and clean up B files
 - [ ] Clean up table of content
 
-## Contribution
+### Contribution
 Feel free to submit issues or pull requests to enhance the project.
 
-## Contact
+### Contact
 For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
