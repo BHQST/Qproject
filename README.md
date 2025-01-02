@@ -8,6 +8,8 @@ All things Q
 
 ## To Do
 - [ ] Clean up repo and seperate cicada stuff
+- [ ] Seperate and clean up B files
+- [ ] Clean up table of content
 
 ## Contribution
 Feel free to submit issues or pull requests to enhance the project.
