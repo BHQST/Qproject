@@ -1,6 +1,6 @@
 # $${\color{red}Q \space \color{red}Project}$$
 
-## Table Of contents
+## Table Of Contents
 - will add as i clean up
 
 ## Description 
