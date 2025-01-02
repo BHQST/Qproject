@@ -4,7 +4,7 @@
 - will add as i clean up
 
 ### Description 
-All things Q
+- All things Q
 
 ### To Do
 - [ ] Clean up repo and seperate cicada stuff
@@ -12,7 +12,7 @@ All things Q
 - [ ] Clean up table of content
 
 ### Contribution
-Feel free to submit issues or pull requests to enhance the project.
+- Feel free to submit issues or pull requests to enhance the project.
 
 ### Contact
-For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
+- For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
