@@ -8,7 +8,7 @@
 
 ### To Do
 - [ ] Clean up repo and seperate cicada stuff
-- [ ] Seperate and clean up B files
+- [ ] clean up B files
 - [ ] Clean up table of content
 
 ### Contribution
