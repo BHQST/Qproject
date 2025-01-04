@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/BHQST/3301" alt="GitHub Repo stars">
+  <img src="https://img.shields.io/github/stars/BHQST/Q_Project" alt="GitHub Repo stars">
   <img src="https://img.shields.io/github/forks/BHQST/3301" alt="GitHub forks">
   <img src="https://img.shields.io/github/watchers/BHQST/3301" alt="GitHub watchers">
   <img src="https://img.shields.io/github/checks-status/BHQST/3301/main" alt="GitHub branch status">
@@ -16,6 +16,9 @@
 </h1>
 
 ![Logo](Logo.png)
+
+> [!WARNING]
+> https://b.sof.cloud
 
 > [!CAUTION]
 > Truth is the best Psyop
