@@ -52,7 +52,7 @@
 
 <h1 align="center">Community</h1>
 
- - There isna community discussion board created now.
+ - There is a community discussion board created now.
  - Have ideas or questions? [Join the Discussion](https://github.com/BHQST/Q_Project/discussions) to connect with others and share your thoughts!
 	
 ***
