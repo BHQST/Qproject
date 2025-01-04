@@ -60,6 +60,7 @@
 
 <h1 align="center">Work List</h1>
 
+ - [ ] Restructure `main` branch for better workflow
  - [ ] Clean up README.md
  - [ ] Get Folder structure cleaned up.
  - [ ] Get the pdfs done like the [Q_Project](https://can-add-link.com)
