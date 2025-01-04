@@ -38,20 +38,21 @@
 </div>
 
 ***
+***
 
 <h1 align="center">Description</h1>
 
-	- B Logs HTML webpage of posts.
+- B Logs HTML webpage of posts.
 
-	1) Place this file into the same folder with B log images. 
-	2) Open the .html file webpage. 
+1) Place this file into the same folder with B log images. 
+2) Open the .html file webpage. 
 
-	- It will show posts with meta for ids, post #, hosts, show images, dates, bread links, and links to posts.
+- It will show posts with meta for ids, post #, hosts, show images, dates, bread links, and links to posts.
 
-
-	- Sgt B 8kun Logs (pics)
+- Sgt B 8kun Logs (pics)
 https://drive.google.com/drive/folders/1tdM9MrOoYFf4RPQsn2FX1yuIpmFS50D2
 
+***
 ***
 
 <h1 align="center">Community</h1>
@@ -60,12 +61,14 @@ https://drive.google.com/drive/folders/1tdM9MrOoYFf4RPQsn2FX1yuIpmFS50D2
 - Have ideas or questions? [Join the Discussion](https://github.com/BHQST/Q_Project/B_project/discussions) to connect with others and share your thoughts!
 	
 ***
+***
 
 <h1 align="center">Work List</h1>
-	- [ ] Clean up README.md
-	- [ ] Get Folder structure cleaned up.
-	- [ ] Get the pdfs done like the [Q_Project] (https://can-add-link.com)
+- [ ] Clean up README.md
+- [ ] Get Folder structure cleaned up.
+- [ ] Get the pdfs done like the [Q_Project](https://can-add-link.com)
 	
+***
 ***
 
 <h1 align="center">Contribution</h1>
@@ -82,11 +85,14 @@ cd 3301
 4. Commit your changes (git commit -m "Add new sauce").
 5. Push to the branch (git push origin New_Addition).
 6. Open a pull request.
+
+***
 ***
 
 <h1 align="center">Credits</h1>
-	- This will hold Credits for work not from the team but used in context from anons.
+- This will hold Credits for work not from the team but used in context from anons.
 
+***
 ***
 
 <h1 align="center">License</h1>
@@ -94,13 +100,14 @@ cd 3301
 - See the [LICENSE](LICENSE) file for details.
 
 ***
+***
 
 <h1 align="center">Contact</h1>
 
-	- For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com.
+- For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com.
 
 ***
-
+***
 <p align="center">
   <a href="#top">Back To Top</a>
 </p>
