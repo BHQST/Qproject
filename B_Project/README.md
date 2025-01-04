@@ -19,6 +19,7 @@
 > Truth is the best Psyop
 
 ***
+***
 
 <h1 align="center">Table of Contents</h1>
 
@@ -64,6 +65,7 @@ https://drive.google.com/drive/folders/1tdM9MrOoYFf4RPQsn2FX1yuIpmFS50D2
 ***
 
 <h1 align="center">Work List</h1>
+
 - [ ] Clean up README.md
 - [ ] Get Folder structure cleaned up.
 - [ ] Get the pdfs done like the [Q_Project](https://can-add-link.com)
@@ -90,6 +92,7 @@ cd 3301
 ***
 
 <h1 align="center">Credits</h1>
+
 - This will hold Credits for work not from the team but used in context from anons.
 
 ***
