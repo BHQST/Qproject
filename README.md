@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/github/issues-pr/BHQST/Q_Project" alt="GitHub Pull Requests">
 </p>
 
-<h1 id="centered-header" align="center">$${\color{red}Q}\{\color{blue}Project}$$</h1> 
+<h1 id="centered-header" align="center">$${\color{red}Q}\ {\color{blue}Project}$$</h1>
+
 
 ![Logo](Logo.png)
 
