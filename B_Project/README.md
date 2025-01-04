@@ -101,8 +101,8 @@ git commit -m "Add new sauce"
 git push origin New_Addition
 ```
 6. **Open a pull request.**
-	- Go to the repository on GitHub.
-	- Compare your branch with the `main` branch and create a pull request.
+ - Go to the repository on GitHub.
+ - Compare your branch with the `main` branch and create a pull request.
 
 ***
 ***
